@@ -1,5 +1,5 @@
 {
-  "name": "react-contacts",
+  "name": "contacts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +7,7 @@
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
-    "react-scripts": "1.0.10"
+    "react-scripts": "1.0.7"
   },
   "scripts": {
     "start": "react-scripts start",
